@@ -6,6 +6,6 @@ The submitted data science project investigated the predictability of arbitrage 
 The full final report is contained in AI_Hack_2021_Report.pdf and the code used for this project is listed in AI_Hack_Code.R.
 
 Contact details/websites for the members of the team are as follows:
-*Jack Norrie -  https://www.linkedin.com/in/jack-norrie/ ​
-*James Hannon - https://www.linkedin.com/in/hannon-james/ ​
-*Nihaar Popli - https://www.linkedin.com/in/nihaar-popli-37b918103/​
+* Jack Norrie -  https://www.linkedin.com/in/jack-norrie/ ​
+* James Hannon - https://www.linkedin.com/in/hannon-james/ ​
+* Nihaar Popli - https://www.linkedin.com/in/nihaar-popli-37b918103/​
